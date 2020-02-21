@@ -18,7 +18,7 @@ To submit any assignment on FullStack (MERN) Development do use below repository
 ```
 https://github.com/internbuddy/foster-web.git
 ```
-## Data Scientist
+## AI/ML/DL
 To submit any assignment on AI/ML/DL get the sample  data from below repository.
 ```
 https://github.com/internbuddy/foster-app.git
