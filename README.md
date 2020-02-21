@@ -19,9 +19,9 @@ To submit any assignment on FullStack (MERN) Development do use below repository
 https://github.com/internbuddy/virtual-university.git
 ```
 ## AI/ML/DL
-To submit any assignment on AI/ML/DL get the sample  data from below repository.
+Sample data for assignment on AI/ML/DL/DS.
 ```
-https://github.com/internbuddy/sandbox.git
+https://github.com/internbuddy/sample-data.git
 ```
 ## Internship BootCamp
 This is an excellent free program to get ready for internship. 
