@@ -11,17 +11,17 @@ InternBuddy offers three technology verticals.
 ## Web Development
 To submit any assignment on Web Development do use below repository.
 ```
-https://github.com/internbuddy/virtual-university.git
+https://github.com/internbuddy/virtual-hospital.git
 ```
 ## FullStack (MERN) Development
 To submit any assignment on FullStack (MERN) Development do use below repository.
 ```
-https://github.com/internbuddy/foster-web.git
+https://github.com/internbuddy/virtual-university.git
 ```
 ## AI/ML/DL
 To submit any assignment on AI/ML/DL get the sample  data from below repository.
 ```
-https://github.com/internbuddy/foster-app.git
+https://github.com/internbuddy/sandbox.git
 ```
 ## Internship BootCamp
 This is an excellent free program to get ready for internship. 
